@@ -355,7 +355,6 @@ img {
   border: 1px solid #e7e9fc;
   border-radius: 4px;
   display: block;
-  margin-bottom: 72px;
   height: 48px;
   padding: 12px 24px;
 }
@@ -371,6 +370,7 @@ img {
 }
 
 .wrap-list {
+  margin-top: 72px;
   display: flex;
   flex-wrap: wrap;
   row-gap: 48px;
